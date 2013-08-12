@@ -5,12 +5,13 @@
       "name": "IPS Syntax",
       "author": "Matt C",
       "details": "https://github.com/Skullmonkey/IPS-Syntax",
+      "labels": ["language syntax"],
       "releases": [
         {
           "sublime_text": "*",
           "details": "https://github.com/Skullmonkey/IPS-Syntax/tags"
         }
       ]
-    },
+    }
   ]
 }
