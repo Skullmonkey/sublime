@@ -1,0 +1,16 @@
+{
+  "schema_version": "2.0",
+  "packages": [
+    {
+      "name": "IPS Syntax",
+      "author": "Matt C",
+      "details": "https://github.com/Skullmonkey/IPS-Syntax",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/Skullmonkey/IPS-Syntax"
+        }
+      ]
+    },
+  ]
+}
