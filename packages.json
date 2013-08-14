@@ -14,6 +14,18 @@
       ]
     },
     {
+      "name": "IPS BBCode",
+      "author": "Matt C",
+      "details": "https://github.com/Skullmonkey/IPS-BBCode",
+      "labels": ["language syntax"],
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/Skullmonkey/IPS-BBCode/tags"
+        }
+      ]
+    },
+    {
       "name": "BBCode Syntax",
       "author": "Matt C",
       "details": "https://github.com/Skullmonkey/BBCode-Syntax",
