@@ -26,6 +26,18 @@
       ]
     },
     {
+      "name": "Logitech G-Series LUA API",
+      "author": "Matt C",
+      "details": "https://github.com/Skullmonkey/LGS-LUA",
+      "labels": ["language syntax", "auto-complete", "lua", "completion"],
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/Skullmonkey/LGS-LUA/tags"
+        }
+      ]
+    },
+    {
       "name": "BBCode Syntax",
       "author": "Matt C",
       "details": "https://github.com/Skullmonkey/BBCode-Syntax",
