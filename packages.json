@@ -2,18 +2,6 @@
   "schema_version": "2.0",
   "packages": [
     {
-      "name": "IPS Syntax",
-      "author": "Matt C",
-      "details": "https://github.com/Skullmonkey/IPS-Syntax",
-      "labels": ["language syntax"],
-      "releases": [
-        {
-          "sublime_text": "*",
-          "details": "https://github.com/Skullmonkey/IPS-Syntax/tags"
-        }
-      ]
-    },
-    {
       "name": "IPS BBCode",
       "author": "Matt C",
       "details": "https://github.com/Skullmonkey/IPS-BBCode",
@@ -46,6 +34,18 @@
         {
           "sublime_text": "*",
           "details": "https://github.com/Skullmonkey/BBCode-Syntax/tags"
+        }
+      ]
+    },
+    {
+      "name": "WordPress Gutenburg Blocks Autocompletions",
+      "author": "Matt C",
+      "details": "https://github.com/Skullmonkey/Wordpress-Gutenberg-Blocks-Autocomplete",
+      "labels": ["auto-complete", "wordpress", "autocompletion", "formatting", "completions", "completion"],
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/Skullmonkey/Wordpress-Gutenberg-Blocks-Autocomplete/tags"
         }
       ]
     }
